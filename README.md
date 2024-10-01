@@ -13,7 +13,7 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
     - [ ] Undecided
-    - [ * economy] Other (please specify)
+    - [ * economy ] Other (please specify)
 
 3. What are you hoping to get out of this class? knowing of the bais skill of programming,unity
 5. What, if anything, are you nervous about for this class? It is hard to be followed.
